@@ -2,11 +2,7 @@
 
 **Replication Package**
 
----
 
-## Authors
-Aymen Masmoudi, Belhassen Khefacha, Andrew Haralambous, Mohamed Wiem Mkaouer  
-University of Michigan-Flint — {masmoudi,khefacha,aharalam,mmkaouer}@umich.edu
 
 ---
 
